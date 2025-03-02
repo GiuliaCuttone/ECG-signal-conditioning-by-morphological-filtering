@@ -5,6 +5,6 @@ Clinically obtained electrocardiographics (ECG) signals are often contaminated w
 A modified morphological filtering (MMF) technique is used for signal conditioning in order to accomplish baseline correction and noise suppression with minimum signal distortion.
 
 Three parameters were used for algorithm evaluation:
-- the baseline-correction ratio (BCR)
-- the noise-suppression ratio (NSR)
-- the signal-dostortion ratio (SDR)
+- Baseline-correction ratio (BCR)
+- Noise-suppression ratio (NSR)
+- Signal-dostortion ratio (SDR)
